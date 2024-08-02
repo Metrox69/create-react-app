@@ -1,3 +1,7 @@
+npx create-react-app metrox-client
+cd metrox-client
+npm start
+
 'use strict';
 
 const testSetup = require('../__shared__/test-setup');
